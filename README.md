@@ -44,6 +44,6 @@ An intelligent, automated parking system that leverages **IoT sensors**, **Compu
 ### 🛠️ Installation
 
 ```bash
-cd smart-parking-system
+cd Parking-System
 pip install -r requirements.txt
 ```
